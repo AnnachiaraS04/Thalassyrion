@@ -4,8 +4,8 @@ Thalassyrion, il drago del mare profondo, non nacque come mostro, ma come custod
 
 # Parti chimeriche 
 Il Glaucus atlanticus, noto come drago blu o angelo blu, è un piccolo mollusco nudibranco (lungo solitamente 3-4 cm) che vive sulla superficie degli oceani tropicali. Caratterizzato da una splendida colorazione blu e argento, galleggia a pancia in su, mimetizzandosi con l'acqua. È famoso per la sua tossicità, derivata dalle meduse di cui si nutre.
-	•	Nomi comuni: Oltre a drago blu, è chiamato "Rondine di mare" o "Angelo blu" per il suo aspetto elegante e fiabesco.
-	•	Aspetto e colore: Il suo corpo è allungato e dotato di appendici laterali simili ad ali, chiamate cerata, che gli conferiscono un aspetto simile a un piccolo drago. Il ventre è di colore blu cobalto brillante, mentre il dorso è grigio-argento.
-	•	Galleggiamento e mimetismo: Vive a pancia in su ("neuston") sulla superficie dell'acqua, galleggiando grazie a una bolla d'aria che trattiene nello stomaco. Questa posizione gli permette di confondersi col cielo (grazie al ventre blu) se guardato dal basso, e col mare (grazie al dorso grigio) se guardato dall'alto.
-	•	Veleno: Il suo morso è estremamente doloroso e potenzialmente pericoloso per l'uomo, causando lesioni cutanee, nausea e vomito. È consigliabile non toccarlo mai.
-	•	Habitat e dimensioni: Presente negli oceani Atlantico, Pacifico e Indiano, di solito in mare aperto. Misura raramente più di 3-4cm.
+- Nomi comuni: Oltre a drago blu, è chiamato "Rondine di mare" o "Angelo blu" per il suo aspetto elegante e fiabesco.
+- Aspetto e colore: Il suo corpo è allungato e dotato di appendici laterali simili ad ali, chiamate cerata, che gli conferiscono un aspetto simile a un piccolo drago. Il ventre è di colore blu cobalto brillante, mentre il dorso è grigio-argento.
+- Galleggiamento e mimetismo: Vive a pancia in su ("neuston") sulla superficie dell'acqua, galleggiando grazie a una bolla d'aria che trattiene nello stomaco. Questa posizione gli permette di confondersi col cielo (grazie al ventre blu) se guardato dal basso, e col mare (grazie al dorso grigio) se guardato dall'alto.
+- Veleno: Il suo morso è estremamente doloroso e potenzialmente pericoloso per l'uomo, causando lesioni cutanee, nausea e vomito. È consigliabile non toccarlo mai.
+- Habitat e dimensioni: Presente negli oceani Atlantico, Pacifico e Indiano, di solito in mare aperto. Misura raramente più di 3-4cm.
